@@ -1,2 +1,2 @@
 # mm-weather
-A simple weather widget.
+A simple weather web component.
